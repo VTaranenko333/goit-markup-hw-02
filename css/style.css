@@ -12,6 +12,45 @@ ul {
     list-style-type: none;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+/*
+header {
+    width: 1440px;
+    height: 72px;
+
+}
+
+.logo {
+    padding-top: 24px;
+    padding-left: 156;
+    padding-right: 1169;
+    padding-right: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 0px;
+    width: 115px;
+    height: 24px;
+}
+
+.hero {
+    width: 1440px;
+    height: 600px;
+    background: #2e2f42;
+    padding-top: 72px;
+}
+
 h1 {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
@@ -21,3 +60,18 @@ h1 {
     text-align: center;
     color: #fff;
 }
+
+button {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 10px;
+    border-radius: 4px;
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background: #4d5ae5;
+}
+*/
