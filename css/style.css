@@ -2,6 +2,7 @@ body {
     font-family: "Roboto", sans-serif;
     color: #2e2f42;
     background-color: #FFFFFF;
+    color: #434455;
 }
 
 a {
@@ -11,6 +12,30 @@ a {
 ul {
     list-style-type: none;
 }
+
+button {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 10px;
+    border-radius: 4px;
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background: #4d5ae5;
+    cursor: pointer;
+}
+
+.address-item:hover {
+    color: #404BBF;
+}
+
+.address-item:focus {
+    color: #4D5AE5;
+}
+
 
 /* .header {}
 
