@@ -12,6 +12,7 @@ ul {
     list-style-type: none;
 }
 
+/* Header */
 .header-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -39,6 +40,7 @@ ul {
     color: #404bbf;
 }
 
+/* address */
 .address {
     font-style: normal
 }
@@ -60,6 +62,7 @@ ul {
     background: #2e2f42;
 }
 
+/* first section */
 .main-hero-title {
     font-weight: 700;
     font-size: 56px;
@@ -88,11 +91,11 @@ ul {
     background-color: #404BBF
 }
 
-
+/* second section */
 .advantages-list-title {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.12;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
@@ -105,6 +108,7 @@ ul {
     color: #434455;
 }
 
+/* thirs section */
 .team {
     background-color: #F4F4FD;
 }
@@ -112,10 +116,15 @@ ul {
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
+}
+
+.team-list-item {
+    background-color: #ffffff;
 }
 
 .team-member-title {
@@ -136,6 +145,7 @@ ul {
     color: #434455;
 }
 
+/* forth section */
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
@@ -162,6 +172,7 @@ ul {
     color: #434455;
 }
 
+/* footer */
 .footer {
     background-color: #2e2f42;
 }
